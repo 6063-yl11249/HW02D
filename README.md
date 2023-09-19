@@ -44,7 +44,7 @@ Link:
 
 
 Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-04.jpg)
 
 
 Image on repo:  
@@ -58,3 +58,11 @@ this is a new line.
 To start a new paragraph, leave an empty line between two lines of text.
 
 This is a new paragraph.
+
+1.Create a beige-colored canvas  
+2.Draw the triangle on the top-leaft corner  
+3.Draw the quad on tthe bottom-leat corner  
+4.Draw the small quad above it on the left  
+5.Draw the small quad next to it on the right side  
+6.Draw the triangle on the bottom-right corner  
+7.Draw the quad on the top-right corner
